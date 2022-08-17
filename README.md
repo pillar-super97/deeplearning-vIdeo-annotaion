@@ -1,13 +1,3 @@
-# Simple Video Annotation
-
-> A simple Video annotation made with python + opencv for detection in yolo format
-
-![](VideoTag.jpg)
-
-## Output Example
-
-> https://drive.google.com/drive/folders/1jdrNOeyFmMtlrg8QWdlXW5aZy4HRXJUz
-
 ## Installation (Tested with python 3.6 and OpenCV 4.4)
 
 ```sh
@@ -106,18 +96,5 @@ Givem a video file, it will create:
 	
 	1. Organize the code
 	2. Make automatic BoundBox
-
-### Please Feel Free to Contact Us!
-
-**Carlos Pena** ([GitHub :octocat:](https://github.com/CarlosPena00))
-  
-![](https://github.com/CarlosPena00.png?size=230)  
-**chcp@cin.ufpe.br**
-
-**Heitor Rapela** ([GitHub :octocat:](https://github.com/heitorrapela))
-  
-![](https://github.com/heitorrapela.png?size=230)  
-**hrm@cin.ufpe.br**
-
 
 [![](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/images/0)](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/links/0)[![](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/images/1)](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/links/1)[![](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/images/2)](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/links/2)[![](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/images/3)](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/links/3)[![](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/images/4)](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/links/4)[![](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/images/5)](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/links/5)[![](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/images/6)](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/links/6)[![](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/images/7)](https://sourcerer.io/fame/CarlosPena00/CarlosPena00/SimpleVideoAnnotation/links/7)
